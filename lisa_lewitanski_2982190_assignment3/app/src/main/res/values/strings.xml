@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="action_settings">Settings</string>
+    <string name="speed">Speed: </string>
+    <string name="speed_max">Maximum speed: </string>
+    <string name="speed_min">Minimum speed: </string>
+    <string name="speed_average">Speed average: </string>
+    <string name="distance">Distance: </string>
+    <string name="time">Total time: </string>
+    <string name="altitude">Altitude: </string>
+    <string name="altitude_max">Maximum altitude: </string>
+    <string name="altitude_min">Minimum altitude: </string>
+    <string name="altitude_gain">Altitude gain: </string>
+    <string name="altitude_loss">Altitude loss: </string>
+    <string name="altitude_depending_on_the_time">Altitude depending on the time:</string>
+
+</resources>
